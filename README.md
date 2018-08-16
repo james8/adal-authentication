@@ -6,7 +6,9 @@ Download "Node.js" if not currently installed (https://nodejs.org/en/)
 
 Download project
 
-In command prompt, navigate to project directory and run "npm install"
+In command prompt, run "npm install -g @vue/cli" if not currently installed
+
+Navigate to project directory and run "npm install"
 ```
 
 ### Compiles and hot-reloads for development
