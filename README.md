@@ -1,4 +1,4 @@
-# adal-authentication-test
+# adal-authentication
 
 ## Project setup
 ```
