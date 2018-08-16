@@ -14,7 +14,7 @@ In command prompt, navigate to project directory and run "npm install"
 npm run serve
 
 
-NOTE: Test user's credentials can be found on team OneNote (Shirokane, James -> AD Auths -> Azure AD Test Accounts)
+NOTE: Test user's credentials can be found on team OneNote (Shirokane, James -> AD Auths -> Azure AD (AAD) -> Azure AD Test Accounts)
 ```
 
 ### Compiles and minifies for production
